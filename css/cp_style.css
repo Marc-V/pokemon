@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+#SC{
+    display: inline-flex;
+
+}
+
+#container{
+    width:1000px;
+}
+
+#info{
+    width: 440px;
+    height: 300px;
+}
+
+img{
+    border: 1px solid black;
+    margin: 2px;
+}
